@@ -1,0 +1,6 @@
+{
+  "name": "CGR Saber 11° Analítica Docente",
+  "description": "Dashboard móvil e interactivo de análisis histórico ICFES Saber 11° (2016-2026) por áreas y aprendizajes para docentes del Colegio Gustavo Restrepo IED.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
